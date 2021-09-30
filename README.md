@@ -1,4 +1,4 @@
-### Hi there 👋
+# 👋
 
 <!--
 **limdh0827/limdh0827** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
